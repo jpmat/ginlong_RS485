@@ -15,6 +15,8 @@ Only 2 pins are actually used for the connection.
 pin 3-A  
 pin 4-B  
 
+We have some of these in stock if anyone wants to buy one. Please message me for details.
+
 ### RS485 adapter
 
 There several types of adaptor availiable. I have used several different types and they all worked fine.
