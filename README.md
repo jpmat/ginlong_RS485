@@ -8,7 +8,7 @@ There are only two bits of hardware required to communicate over RS485 with the 
 ### Female plug
 ![alt text](https://github.com/RobertSmart/ginlong_RS485/blob/master/images/exceedconn_ginlong.PNG "Ginlong comms plug")
 
-The ginlong inverter uses an exceedconn EC series plug for the commes port. I beleive this model number is EC04681-2014-bf. These are very hard to source right now, but we are trying to get some in stock.  
+The ginlong inverter uses an exceedconn EC series plug for the commes port. I believe this model number is EC04681-2014-bf. These are very hard to source right now, but we are trying to get some in stock.  
 
 Only 2 pins are actually used for the connection.
 
